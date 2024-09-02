@@ -1,0 +1,13 @@
+.bottle-container img{
+    width: 150px;
+    
+}
+.bottle-container{
+   border: 2px solid tomato;
+   margin: 15px;
+   width: 250px;
+}
+.bottle{
+    display: flex;
+    flex-wrap: wrap;
+}
